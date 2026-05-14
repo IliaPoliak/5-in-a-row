@@ -1,0 +1,1 @@
+pub const FIELD_SIZE: usize = 15;
